@@ -1,0 +1,4 @@
+interface:
+  display_name: "Little Barb"
+  short_description: "Pyramid structure editor"
+  default_prompt: "Use $little-barb to test and rebuild this argument, memo, deck, email, or document structure."
